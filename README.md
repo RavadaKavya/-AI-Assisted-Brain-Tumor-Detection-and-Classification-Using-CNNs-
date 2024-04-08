@@ -18,7 +18,7 @@ This project addresses the critical need for accurate and efficient brain tumor 
   Early Stopping: Monitor validation loss to stop training when performance plateaus.
 
 **Dataset**
-•	The data will be split into training (70%), validation (15%), and test (15%) sets.
+  The data will be split into training (70%), validation (15%), and test (15%) sets.
 
 **Data Handling and Performance Evaluation**
 •	Data Splitting: Stratified splitting to maintain tumor-type proportions across datasets.
